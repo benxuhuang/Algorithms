@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\N000158893\\source\\repos\\Algorithms\\BubbleSort\\BubbleSort\\BubbleSort.csproj",
+      "projectUniqueName": "C:\\Users\\N000158893\\source\\repos\\Algorithms\\BubbleSort\\BubbleSort.csproj",
       "projectName": "BubbleSort",
-      "projectPath": "C:\\Users\\N000158893\\source\\repos\\Algorithms\\BubbleSort\\BubbleSort\\BubbleSort.csproj",
+      "projectPath": "C:\\Users\\N000158893\\source\\repos\\Algorithms\\BubbleSort\\BubbleSort.csproj",
       "packagesPath": "C:\\Users\\N000158893\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\N000158893\\source\\repos\\Algorithms\\BubbleSort\\BubbleSort\\obj\\",
+      "outputPath": "C:\\Users\\N000158893\\source\\repos\\Algorithms\\BubbleSort\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
