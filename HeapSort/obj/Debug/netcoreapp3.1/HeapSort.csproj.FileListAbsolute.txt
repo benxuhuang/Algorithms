@@ -1,0 +1,13 @@
+C:\Users\N000158893\source\repos\Algorithms\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.exe
+C:\Users\N000158893\source\repos\Algorithms\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.deps.json
+C:\Users\N000158893\source\repos\Algorithms\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.runtimeconfig.json
+C:\Users\N000158893\source\repos\Algorithms\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\Algorithms\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.dll
+C:\Users\N000158893\source\repos\Algorithms\HeapSort\bin\Debug\netcoreapp3.1\HeapSort.pdb
+C:\Users\N000158893\source\repos\Algorithms\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\Algorithms\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\Algorithms\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.AssemblyInfo.cs
+C:\Users\N000158893\source\repos\Algorithms\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.csproj.CoreCompileInputs.cache
+C:\Users\N000158893\source\repos\Algorithms\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.dll
+C:\Users\N000158893\source\repos\Algorithms\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.pdb
+C:\Users\N000158893\source\repos\Algorithms\HeapSort\obj\Debug\netcoreapp3.1\HeapSort.genruntimeconfig.cache
