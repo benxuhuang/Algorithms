@@ -1,0 +1,13 @@
+C:\Users\N000158893\source\repos\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.exe
+C:\Users\N000158893\source\repos\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.deps.json
+C:\Users\N000158893\source\repos\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.json
+C:\Users\N000158893\source\repos\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.dev.json
+C:\Users\N000158893\source\repos\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Users\N000158893\source\repos\Algorithms\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Users\N000158893\source\repos\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csprojAssemblyReference.cache
+C:\Users\N000158893\source\repos\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\N000158893\source\repos\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfo.cs
+C:\Users\N000158893\source\repos\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\N000158893\source\repos\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.dll
+C:\Users\N000158893\source\repos\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.pdb
+C:\Users\N000158893\source\repos\Algorithms\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.genruntimeconfig.cache
